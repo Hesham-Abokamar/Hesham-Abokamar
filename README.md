@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Junior Django backend developer</h3>
 
 
+
 - 🔭 I’m currently working on **Job board**
 
 - 🌱 I’m currently learning **Odoo**
