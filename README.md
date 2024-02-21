@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hesham-Abokamar](https://github.com/Hesham-Abokamar)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/hesham-abokamar-b92a67280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/hesham-abokamar-b92a67280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/hesham-abokamar](https://www.linkedin.com/in/hesham-abokamar-b92a67280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 📫 How to reach me **heshamabokamar015@gmail.com**
 
