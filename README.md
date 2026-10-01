@@ -8,7 +8,6 @@
 👨‍💻 All of my projects are available at https://github.com/Hesham-Abokamar<br><br>
 📝 I regularly write articles on www.linkedin.com/in/hesham-abokamar-b92a67280<br><br>
 📫 How to reach me heshamabokamar015@gmail.com<br><br>
-⚡ Fun fact I love going to the gym
 
 
 ## 🌐 Socials:
